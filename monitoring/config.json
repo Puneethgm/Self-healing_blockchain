@@ -1,0 +1,28 @@
+{
+  "providerUrl": "ws://127.0.0.1:8546",
+  "attackDetectorAddress": "0x26b4AFb60d6C903165150C6F0AA14F8016bE4aec",
+  "selfHealingManagerAddress": "0x630589690929E9cdEFDeF0734717a9eF3Ec7Fcfe",
+  "vulnerabilityPatchesAddress": "0x0E696947A06550DEf604e82C26fd9E493e576337",
+  "secureTokenAddress": "0xDb56f2e9369E0D7bD191099125a3f6C370F8ed15",
+  "alertConfig": {
+    "email": {
+      "transport": {
+        "service": "gmail",
+        "auth": {
+          "user": "c50239244@gmail.com",
+          "pass": "xaag saim bgkt rgba"
+        }
+      },
+      "from": "c50239244@gmail.com",
+      "to": "alert-recipient@example.com",
+      "minSeverity": "high"
+    },
+    "webhook": {
+      "url": "https://your-webhook-url",
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    }
+  },
+  "logDir": "./logs"
+}

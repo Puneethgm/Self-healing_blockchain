@@ -1,0 +1,16 @@
+[2025-05-07T12:24:19.701Z] Blockchain monitoring started
+[2025-05-07T12:24:24.792Z] Error recording metrics for 0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1: Invalid number of parameters for "recordTransaction". Got 3 expected 4!
+[2025-05-07T12:25:44.511Z] Blockchain monitoring started
+[2025-05-07T23:31:36.985Z] Transaction monitoring error: CONNECTION ERROR: Couldn't connect to node http://127.0.0.1:8545.
+[2025-05-07T23:38:19.236Z] Blockchain monitoring started
+[2025-05-07T23:40:15.193Z] Blockchain monitoring started
+[2025-05-07T23:40:20.225Z] Transaction monitoring error: connection not open on send()
+[2025-05-07T23:40:25.210Z] Transaction monitoring error: connection not open on send()
+[2025-05-07T23:40:30.237Z] Transaction monitoring error: connection not open on send()
+[2025-05-07T23:40:35.247Z] Transaction monitoring error: connection not open on send()
+[2025-05-07T23:40:40.260Z] Transaction monitoring error: connection not open on send()
+[2025-05-07T23:40:45.262Z] Transaction monitoring error: connection not open on send()
+[2025-05-07T23:40:50.263Z] Transaction monitoring error: connection not open on send()
+[2025-05-07T23:40:55.277Z] Transaction monitoring error: connection not open on send()
+[2025-05-07T23:41:00.280Z] Transaction monitoring error: connection not open on send()
+[2025-05-07T23:41:05.264Z] Transaction monitoring error: connection not open on send()

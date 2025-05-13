@@ -1,0 +1,120 @@
+[2025-05-13T04:14:48.603Z] Successfully subscribed to blockchain events
+[2025-05-13T04:14:48.629Z] Blockchain monitoring started
+[2025-05-13T04:15:38.747Z] WebSocket error: Maximum number of reconnect attempts reached!
+[2025-05-13T04:15:38.754Z] Attack event subscription error: Maximum number of reconnect attempts reached!
+[2025-05-13T04:15:38.759Z] Blacklist event subscription error: Maximum number of reconnect attempts reached!
+[2025-05-13T04:15:38.764Z] Patch event subscription error: Maximum number of reconnect attempts reached!
+[2025-05-13T04:15:38.770Z] Transaction monitoring error: Maximum number of reconnect attempts reached!
+[2025-05-13T04:15:38.772Z] Transaction monitoring error: Maximum number of reconnect attempts reached!
+[2025-05-13T04:15:38.775Z] Transaction monitoring error: Maximum number of reconnect attempts reached!
+[2025-05-13T04:15:38.777Z] Transaction monitoring error: Maximum number of reconnect attempts reached!
+[2025-05-13T04:15:38.779Z] Transaction monitoring error: Maximum number of reconnect attempts reached!
+[2025-05-13T04:15:38.783Z] Transaction monitoring error: Maximum number of reconnect attempts reached!
+[2025-05-13T04:15:38.787Z] Transaction monitoring error: Maximum number of reconnect attempts reached!
+[2025-05-13T04:15:38.789Z] Transaction monitoring error: Maximum number of reconnect attempts reached!
+[2025-05-13T04:15:38.791Z] Transaction monitoring error: Maximum number of reconnect attempts reached!
+[2025-05-13T04:15:38.811Z] Transaction monitoring error: Maximum number of reconnect attempts reached!
+[2025-05-13T04:15:43.699Z] WebSocket error: connection not open on send()
+[2025-05-13T04:15:43.716Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:15:48.703Z] WebSocket error: connection not open on send()
+[2025-05-13T04:15:48.737Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:15:53.714Z] WebSocket error: connection not open on send()
+[2025-05-13T04:15:53.744Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:15:58.729Z] WebSocket error: connection not open on send()
+[2025-05-13T04:15:58.749Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:16:03.747Z] WebSocket error: connection not open on send()
+[2025-05-13T04:16:03.784Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:16:08.744Z] WebSocket error: connection not open on send()
+[2025-05-13T04:16:08.761Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:16:13.747Z] WebSocket error: connection not open on send()
+[2025-05-13T04:16:13.870Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:16:18.751Z] WebSocket error: connection not open on send()
+[2025-05-13T04:16:18.782Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:16:23.754Z] WebSocket error: connection not open on send()
+[2025-05-13T04:16:23.767Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:16:28.760Z] WebSocket error: connection not open on send()
+[2025-05-13T04:16:28.768Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:16:33.763Z] WebSocket error: connection not open on send()
+[2025-05-13T04:16:33.783Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:16:38.773Z] WebSocket error: connection not open on send()
+[2025-05-13T04:16:38.776Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:16:43.785Z] WebSocket error: connection not open on send()
+[2025-05-13T04:16:43.827Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:16:48.792Z] WebSocket error: connection not open on send()
+[2025-05-13T04:16:48.807Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:16:53.797Z] WebSocket error: connection not open on send()
+[2025-05-13T04:16:53.811Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:16:58.814Z] WebSocket error: connection not open on send()
+[2025-05-13T04:16:58.841Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:17:03.818Z] WebSocket error: connection not open on send()
+[2025-05-13T04:17:03.836Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:17:08.819Z] WebSocket error: connection not open on send()
+[2025-05-13T04:17:08.852Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:17:13.821Z] WebSocket error: connection not open on send()
+[2025-05-13T04:17:13.852Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:17:18.837Z] WebSocket error: connection not open on send()
+[2025-05-13T04:17:18.852Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:17:23.837Z] WebSocket error: connection not open on send()
+[2025-05-13T04:17:23.853Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:17:28.855Z] WebSocket error: connection not open on send()
+[2025-05-13T04:17:28.858Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:17:33.860Z] WebSocket error: connection not open on send()
+[2025-05-13T04:17:33.910Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:17:38.863Z] WebSocket error: connection not open on send()
+[2025-05-13T04:17:38.886Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:17:43.878Z] WebSocket error: connection not open on send()
+[2025-05-13T04:17:43.907Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:17:48.884Z] WebSocket error: connection not open on send()
+[2025-05-13T04:17:48.901Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:17:53.889Z] WebSocket error: connection not open on send()
+[2025-05-13T04:17:53.904Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:17:58.894Z] WebSocket error: connection not open on send()
+[2025-05-13T04:17:58.920Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:18:03.907Z] WebSocket error: connection not open on send()
+[2025-05-13T04:18:03.915Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:18:08.921Z] WebSocket error: connection not open on send()
+[2025-05-13T04:18:08.951Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:18:13.926Z] WebSocket error: connection not open on send()
+[2025-05-13T04:18:13.951Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:18:18.943Z] WebSocket error: connection not open on send()
+[2025-05-13T04:18:18.969Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:18:23.941Z] WebSocket error: connection not open on send()
+[2025-05-13T04:18:23.944Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:18:28.955Z] WebSocket error: connection not open on send()
+[2025-05-13T04:18:28.972Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:18:33.959Z] WebSocket error: connection not open on send()
+[2025-05-13T04:18:33.963Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:18:38.968Z] WebSocket error: connection not open on send()
+[2025-05-13T04:18:39.003Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:18:43.978Z] WebSocket error: connection not open on send()
+[2025-05-13T04:18:44.010Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:18:48.985Z] WebSocket error: connection not open on send()
+[2025-05-13T04:18:49.019Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:18:53.994Z] WebSocket error: connection not open on send()
+[2025-05-13T04:18:54.020Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:18:58.999Z] WebSocket error: connection not open on send()
+[2025-05-13T04:18:59.032Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:19:03.999Z] WebSocket error: connection not open on send()
+[2025-05-13T04:19:04.015Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:19:09.015Z] WebSocket error: connection not open on send()
+[2025-05-13T04:19:09.032Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:19:14.016Z] WebSocket error: connection not open on send()
+[2025-05-13T04:19:14.042Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:19:19.024Z] WebSocket error: connection not open on send()
+[2025-05-13T04:19:19.039Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:19:24.034Z] WebSocket error: connection not open on send()
+[2025-05-13T04:19:24.051Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:19:29.051Z] WebSocket error: connection not open on send()
+[2025-05-13T04:19:29.054Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:19:34.062Z] WebSocket error: connection not open on send()
+[2025-05-13T04:19:34.075Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:19:39.090Z] WebSocket error: connection not open on send()
+[2025-05-13T04:19:39.106Z] Transaction monitoring error: connection not open on send()
+[2025-05-13T04:19:57.566Z] Successfully subscribed to blockchain events
+[2025-05-13T04:19:57.584Z] Blockchain monitoring started
+[2025-05-13T04:20:47.722Z] WebSocket error: Maximum number of reconnect attempts reached!
+[2025-05-13T04:20:47.752Z] Attack event subscription error: Maximum number of reconnect attempts reached!
+[2025-05-13T04:20:47.762Z] Blacklist event subscription error: Maximum number of reconnect attempts reached!
+[2025-05-13T04:20:47.770Z] Patch event subscription error: Maximum number of reconnect attempts reached!
+[2025-05-13T04:23:02.691Z] Successfully subscribed to blockchain events
+[2025-05-13T04:23:02.733Z] Blockchain monitoring started
