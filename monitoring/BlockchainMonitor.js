@@ -3,6 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const AlertSystem = require('./AlertSystem');
 const MLDetector = require('./MLDetector');
+const PBFT = require('./PBFT');
 
 // Contract ABIs
 const AttackDetectorABI = require('../build/contracts/AttackDetector.json').abi;
@@ -90,7 +91,10 @@ class BlockchainMonitor {
         // Initialize ML Detector
         this.mlDetector = new MLDetector();
         this.mlDetector.on('attackDetected', (detection) => this.handleMLDetection(detection));
-        
+
+        // Initialize PBFT consensus simulation
+        this.pbft = new PBFT(['Node1', 'Node2', 'Node3', 'Node4']);
+
         // Initialize state
         this.isMonitoring = false;
         this.attackHistory = [];
@@ -120,6 +124,9 @@ class BlockchainMonitor {
         
         console.log('Starting blockchain monitoring...');
         this.isMonitoring = true;
+
+        // Start PBFT consensus simulation with a sample request
+        this.pbft.startConsensus({ action: 'Start Monitoring', timestamp: new Date().toISOString() });
         
         // Subscribe to events
         await this.subscribeToEvents();

@@ -676,7 +676,7 @@
   "sourceMap": "61:416:1:-:0;;;160:51;;;;;;;;;-1:-1:-1;185:5:1;:18;;-1:-1:-1;;;;;;185:18:1;193:10;185:18;;;61:416;;;;;;",
   "deployedSourceMap": "61:416:1:-:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;115:36;;;;;;;;;160:25:5;;;148:2;133:18;115:36:1;;;;;;;;88:20;;;;;-1:-1:-1;;;;;88:20:1;;;;;;-1:-1:-1;;;;;360:32:5;;;342:51;;330:2;315:18;88:20:1;196:203:5;363:111:1;;;;;;:::i;:::-;;:::i;:::-;;;274:5;;-1:-1:-1;;;;;274:5:1;260:10;:19;252:83;;;;-1:-1:-1;;;252:83:1;;791:2:5;252:83:1;;;773:21:5;830:2;810:18;;;803:30;869:34;849:18;;;842:62;-1:-1:-1;;;920:18:5;;;913:49;979:19;;252:83:1;;;;;;;;430:24:::1;:36:::0;363:111::o;404:180:5:-;463:6;516:2;504:9;495:7;491:23;487:32;484:52;;;532:1;529;522:12;484:52;-1:-1:-1;555:23:5;;404:180;-1:-1:-1;404:180:5:o",
   "source": "// SPDX-License-Identifier: MIT\r\npragma solidity ^0.8.17;\r\n\r\ncontract Migrations {\r\n    address public owner;\r\n    uint public last_completed_migration;\r\n\r\n    constructor() {\r\n        owner = msg.sender;\r\n    }\r\n\r\n    modifier restricted() {\r\n        require(msg.sender == owner, \"This function is restricted to the contract's owner\");\r\n        _;\r\n    }\r\n\r\n    function setCompleted(uint completed) public restricted {\r\n        last_completed_migration = completed;\r\n    }\r\n}\r\n",
-  "sourcePath": "C:\\OneDrive\\Desktop\\self-healing-blockchain\\contracts\\Migrations.sol",
+  "sourcePath": "E:\\blockchain mppp\\Self-healing_blockchain\\contracts\\Migrations.sol",
   "ast": {
     "absolutePath": "project:/contracts/Migrations.sol",
     "exportedSymbols": {
@@ -1199,10 +1199,16 @@
       "links": {},
       "address": "0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab",
       "transactionHash": "0x691647db9606b8fa01f7590c2ea22d2a37cbce5a29dc3a20fcbbb2c2747d22ce"
+    },
+    "1747129982531": {
+      "events": {},
+      "links": {},
+      "address": "0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab",
+      "transactionHash": "0x691647db9606b8fa01f7590c2ea22d2a37cbce5a29dc3a20fcbbb2c2747d22ce"
     }
   },
   "schemaVersion": "3.4.16",
-  "updatedAt": "2025-05-13T04:01:34.733Z",
+  "updatedAt": "2025-05-13T09:53:44.897Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",

@@ -50,7 +50,6 @@ To run the custom attack simulation tests:
 ```bash
 npx truffle test test/custom_attack_simulation.js
 ```
-
 ## Project Structure
 
 - `contracts/`: Solidity smart contracts
